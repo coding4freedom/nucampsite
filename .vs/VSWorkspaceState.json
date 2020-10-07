@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\node_modules\\bootstrap\\dist",
+    "\\node_modules\\bootstrap\\dist\\css"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\aboutus.html",
   "PreviewInSolutionExplorer": false
 }
