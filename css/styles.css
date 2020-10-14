@@ -49,3 +49,23 @@ header h2 {
 .carousel {
     border: solid #5637dd;
 }
+
+/* CSS only for the copy.html file
+.custom-bg {
+    background: url(https://images.unsplash.com/photo-1505017791108-7b40f307cdc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat center fixed;
+    background-size: cover;
+}
+
+.custom-fade {
+    background-color: rgba(255,255,255,0.3);
+}
+
+.fire {
+    background-image: linear-gradient(to bottom right, #800909, #f27d0c);
+}
+
+.smoke {
+    background-image: linear-gradient(to bottom right, gray, black);
+}
+
+ */
