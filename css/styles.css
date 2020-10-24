@@ -1,78 +1,49 @@
-body{
-    font-family: "Open Sans", sans-serif;
-}
+body {
+  font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
-}
+  font-family: "Lobster", cursive; }
 
 h2 {
-    color: #3046C5;
-}
+  color: #3046C5; }
 
 header h2 {
-    color: #CEC8FF;
-}
+  color: #CEC8FF; }
 
 .site-footer {
-    background-image: linear-gradient(#cec8ff, white);
-    padding: 20px 0;
-}
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0; }
 
 .jumbotron {
-    margin: 0;
-    padding: 30px;
-    background-image: linear-gradient(to right, #5637dd, #3036c5, #60106b);
-    color: white;
-}
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+  color: white; }
 
 .row-content {
-    padding: 50px 0;
-    border-bottom: 1px ridge;
-    min-height: 200px;
-}
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px; }
 
 .navbar {
-    background-color: #901cad;
-}
-
-.tab-content {
-    border: 1px solid #ddd;
-    border-top: none;
-    padding: 10px;
-}
+  background-color: #901CAD; }
 
 .carousel-caption {
-    background-color: rgba(0,0,0,0.5);
-}
+  background-color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
-    border: solid #5637dd;
-}
+  border: solid #5637DD; }
 
 #carouselButton {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: 100;
-}
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100; }
 
-/* CSS only for the copy.html file
-.custom-bg {
-    background: url(https://images.unsplash.com/photo-1505017791108-7b40f307cdc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat center fixed;
-    background-size: cover;
-}
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
 
-.custom-fade {
-    background-color: rgba(255,255,255,0.3);
-}
-
-.fire {
-    background-image: linear-gradient(to bottom right, #800909, #f27d0c);
-}
-
-.smoke {
-    background-image: linear-gradient(to bottom right, gray, black);
-}
-
- */
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
